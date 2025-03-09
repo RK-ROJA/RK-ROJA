@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am R K Roja
-I am engineering student in Don Bosco institute of technology department of Information science and engineering 
+I am engineering student in Don Bosco institute of technology department of Information science and engineering bangalore kumbalgoud
 
 <!--
 **RK-ROJA/RK-ROJA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
